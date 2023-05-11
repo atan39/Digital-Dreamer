@@ -1,0 +1,48 @@
+body {
+    font-family: cursive;
+}
+
+.topnav {
+    font-size: 20px;
+    float: right;
+}
+
+.topnav a:hover {
+    background-color: #F08080;
+    color:black;
+}
+
+.topnav a:visited {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+.topnav a:active {
+    background-color: #00008B;
+}
+
+.nav {
+    text-decoration: none;
+    border-bottom: 1px solid; 
+    padding-bottom: 3px;
+}
+
+.header {
+    font-size: 25px;
+    color: black;
+    border-bottom: 1px solid;
+    background-color: pink;
+}
+
+
+img {
+    float:left;
+    height: 165px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+main {
+    font-size: 25px;
+}
+
